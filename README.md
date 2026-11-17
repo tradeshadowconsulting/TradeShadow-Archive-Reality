@@ -11,10 +11,6 @@ We build with our hands, and we deploy in the dark.
 - **Automated Intelligence:** Leveraging AI and automated workflows so the system manages itself. Let the algorithms do the heavy lifting while we focus on the actual building.
 - **Physical Synthesis:** Code is just a ghost if it doesn't manipulate reality. This architecture is designed with the same precision as physical structural fabrication—built to bear weight, designed to scale quietly.
 
-### 💻 The Arsenal
-- **Infrastructure:** Docker, Containerized Microservices
-- **Intelligence:** Gemini, Automated Workflows
-- **Visuals & Execution:** CapCut, Headless Content Deployment
 
 ### ⚡ The Directive
 We are the middle children of the digital age. Stop polishing obsolete systems and patching legacy code. Break it down, containerize the essential pieces, and build something that actually works.
