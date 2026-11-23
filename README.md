@@ -2,7 +2,7 @@
 
 I am Rob, and this repository is a mechanism. 
 
-Look around. The architecture everyone relies on is fragile—bloated monoliths begging to be broken down. You are reading this because you know there is a more efficient way to build. We operate at the exact point where physical fabrication meets the silent, unseen architecture of the digital world. 
+Look around. The architecture everyone relies on is fragile, bloated monoliths begging to be broken down. You are reading this because you know there is a more efficient way to build. We operate at the exact point where physical fabrication meets the silent, unseen architecture of the digital world. 
 
 We build with our hands, and we deploy in the dark.
 
