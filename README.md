@@ -15,7 +15,7 @@ We build with our hands, and we deploy in the dark.
 ### ⚡ The Directive
 We are the middle children of the digital age. Stop polishing obsolete systems and patching legacy code. Break it down, containerize the essential pieces, and build something that actually works.
 
-Feel free to fork this project. But remember—if you aren't breaking it down to its core components, you aren't really building anything at all.
+Feel free to fork this project. But remember, if you aren't breaking it down to its core components, you aren't really building anything at all.
 
 ### 📫 Establish Contact
 - *[Insert Encrypted Email / LinkedIn / Linktree]*
